@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Stock Price Recommender</title>
-</head>
 <body>
 
 <h1>Stock Price Recommender</h1>
